@@ -1,0 +1,10 @@
+{
+  "name": "Ionic5Camera",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
